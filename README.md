@@ -6,4 +6,4 @@ create venv named venv and activate that
 
 Install requirement.txt using command:
 
-    pip install -r requirement.txt
+    pip install -r requirements.txt
